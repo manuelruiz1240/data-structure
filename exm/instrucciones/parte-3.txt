@@ -1,0 +1,28 @@
+//En la pregunta 5 se la sección 3, tomar en cuenta el siguiente codigo:
+
+typedef struct _node{
+	char* name;          // name of sequence 
+	unsigned char* seq;   // sequence, each position is a set of characters 
+	int cost;             // cost 
+	}
+   node;
+
+//Y para la pregunta 3
+
+typedef unsigned char pardata;
+char** names;
+char** nucle;
+pardata map_nucleotide(char nuc)
+{
+	switch(nuc){
+		case '0': return 0x01;
+		case '1': return 0x02;
+		case 'A': return 0x04;
+		case 'T': return 0x08;
+		case 'C': return 0x10;
+		case 'G': return 0x20;
+		case '-': return 0x40;
+		case '?': return 0xFF;
+		default : return 0x80;
+	}
+}
