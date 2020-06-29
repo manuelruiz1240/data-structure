@@ -1,0 +1,109 @@
+<?xml version='1.0'  encoding='UTF-8'?>
+<bookmarks>
+	<group name="social networks">
+		<b name="facebook">https://www.facebook.com/</b>
+		<b name="instagram">https://www.instagram.com/</b>
+		<b name="twitter">https://www.twitter.com/</b>
+		<b name="VK">https://www.vk.com/</b>
+		<b name="Linkedin">https://linkedin.com/</b>
+		<b name="myspace">http://www.myspace.com/</b>
+		<b name="hi5">http://www.hi5.com/</b>
+		<b name="Badoo">http://www.badoo.com/</b>
+		<b name="Reddit">http://www.reddit.com/</b>
+		<b name="Taringa!">http://www.taringa.net/</b>
+	</group>
+
+	<group name="Google">
+		<b name="Killed by Google">https://killedbygoogle.com/</b>
+		<b name="Chrome">https://chrome.google.com/</b>
+		<b name="Chrome web store">https://chrome.google.com/webstore/</b>
+		<b name="Play">https://play.google.com/</b>
+		<b name="Shopping">https://shopping.google.com/</b>
+		<b name="News">https://news.google.com/</b>
+		<b name="YouTube">https://YouTube.com/</b>
+		<b name="Blogger">https://blogger.com/</b>
+		<b name="Search">https://www.google.com/</b>
+		<b name="Save">https://www.google.com/save</b>
+		<b name="Bookmarks">https://bookmarks.google.com/save</b>
+		<b name="Images">https://images.google.com/</b>
+		<b name="Photos">https://photos.google.com/</b>
+		<b name="Maps">https://maps.google.com/</b>
+		<b name="Earth">https://earth.google.com/</b>
+		<b name="Moon">https://moon.google.com/</b>
+		<b name="Translate">https://translate.google.com/</b>
+		<b name="GMail">https://mail.google.com/</b>
+		<b name="Calendar">https://calendar.google.com/</b>
+		<b name="Meet">https://meet.google.com/</b>
+		<b name="Duo">https://duo.google.com/</b>
+		<b name="Hangouts">https://hangouts.google.com/</b>
+		<b name="Contacts">https://contacts.google.com/</b>
+		<b name="Drive">https://drive.google.com/</b>
+		<b name="Docs">https://docs.google.com/document/</b>
+		<b name="Spreadsheets">https://docs.google.com/</b>
+		<b name="Presentation">https://docs.google.com/</b>
+		<b name="Keep">https://keep.google.com/presentation/</b>
+		<b name="Jamboard">https://jamboard.google.com/presentation/</b>
+		<b name="Books">https://books.google.com/</b>
+		<b name="Classroom">https://classroom.google.com/presentation/</b>
+		<b name="Scholar">https://scholar.google.com/presentation/</b>
+		<b name="Groups">https://groups.google.com/presentation/</b>
+		<b name="Business">https://www.google.com/business/</b>
+		<b name="Adsense">https://adsense.google.com/</b>
+		<b name="Analytics">https://analytics.google.com/</b>
+		<b name="Cloud">https://cloud.google.com/</b>
+		<b name="Search Console">https://search.google.com/search-console/</b>
+		<b name="Arts and culture">https://artsandculture.google.com/</b>
+	</group>
+
+	<group name="Microsoft">
+		<b name="Bing"></b>
+		<b name="Noticias"></b>
+		<b name="Outlook"></b>
+		<b name="Skype"></b>
+		<b name="XBOX"></b>
+	</group>
+
+	<group name="Video">
+		<b name="Netflix"></b>
+		<b name="Amazon Prime Video"></b>
+		<b name="HBO Go"></b>
+		<b name="Disney+"></b>
+		<b name="Hulu"></b>
+		<b name="Blim"></b>
+		<b name="iflix"></b>
+		<b name="Hotstar"></b>
+		<b name="voot"></b>
+		<b name="nowtv"></b>
+		<b name="Twitch"></b>
+		<b name="Vimeo"></b>
+	</group>
+
+	<group name="Musica">
+		<b name="Music Map">https://www.music-map.com/</b>
+		<b name="Spotify"></b>
+		<b name="Apple Music"></b>
+		<b name="iTunes"></b>
+		<b name="Amazon"></b>
+		<b name="Deezer"></b>
+		<b name="SoundCloud"></b>
+		<b name="Gaana"></b>
+		<b name="Pandora"></b>
+		<b name="Shazam"></b>
+		<b name="I Heart Radio"></b>
+	</group>
+
+	<group name="Blogs y Noticias">
+		<b name="Digg"></b>
+		<b name="CNN"></b>
+		<b name="Yahoo!"></b>
+	</group>
+
+	<group name="">
+		<b name=""></b>
+	</group>
+
+	<group name="">
+		<b name=""></b>
+	</group>
+
+</bookmarks>
